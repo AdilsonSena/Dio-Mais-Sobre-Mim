@@ -3,6 +3,6 @@ Repositório criado para o Desafio de Projeto.
 
 
 ## Links Úteis
-[Linkedin](https://www.linkedin.com/in/adilsonsena/)
+[LinkedIn](https://www.linkedin.com/in/adilsonsena/)
 [GitHub](https://github.com/AdilsonSena)
  
