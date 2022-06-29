@@ -7,14 +7,14 @@
 body {
     background-color: #beeef8;
     font-family: sans-serif;
-    list-style-type: none;
+  /*list-style-type: none;*/
     text-align: center;
-    margin: 60px;
+    margin: 33px;
 }
 
 nav ul li {
     list-style-type: none;
-    padding: 15px;
+    padding: 6px;
 }
 
 
