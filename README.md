@@ -1,6 +1,6 @@
-# Dio Desafio de Projeto Mais sobre mim 🚀 Git/GitHub
+# Dio Mais sobre mim 🚀 
 
-### Repositório criado para o Desafio de Projeto.
+### Criação de web site HTML5 e CSS3.
 
 ##### Links Úteis:
 
