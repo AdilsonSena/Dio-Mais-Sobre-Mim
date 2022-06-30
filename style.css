@@ -4,8 +4,21 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #beeef8;
+}
+
+.subtitle {
+    background-color: white;
+    color:rgb(17, 17, 246);
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    
+}
+
 header img {
-    border-radius: 15px;
+    border-radius: 30px;
 }
 
 #title {
@@ -13,21 +26,9 @@ header img {
     
 }
 
-.subtitle {
-    color:rgb(17, 17, 246);
-    padding: 10px;
-}
-
 .subtitle img {
     margin-top: 10px;
     border-radius: 9px;
-}
-
-body {
-    background-color: #beeef8;
-    font-family: sans-serif;
-    text-align: center;
-    margin: 33px;
 }
 
 nav ul li {
