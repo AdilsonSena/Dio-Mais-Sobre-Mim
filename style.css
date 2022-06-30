@@ -4,10 +4,28 @@
     box-sizing: border-box;
 }
 
+header img {
+    border-radius: 15px;
+}
+
+#title {
+    color: blue;
+    
+}
+
+.subtitle {
+    color:rgb(17, 17, 246);
+    padding: 10px;
+}
+
+.subtitle img {
+    margin-top: 10px;
+    border-radius: 9px;
+}
+
 body {
     background-color: #beeef8;
     font-family: sans-serif;
-  /*list-style-type: none;*/
     text-align: center;
     margin: 33px;
 }
