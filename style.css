@@ -17,5 +17,10 @@ nav ul li {
     padding: 6px;
 }
 
+footer ol li {
+    list-style-type: none;
+    padding: 6px;
+}
+
 
 
