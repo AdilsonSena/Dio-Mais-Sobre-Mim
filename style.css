@@ -12,19 +12,16 @@ body {
 .subtitle {
     background-color: white;
     color:rgb(79, 79, 142);
-    padding: 10px;
     border: 3px solid rgb(38, 37, 37);
     margin-top: 15px;
     border-radius: 6px;
-    font-size: 21px;
+    font-size: 15px;
     text-transform: uppercase; 
 }
 
-*/* {
-    text-decoration: line-through;
-    color:rgb(38, 37, 37);
-}*/
-
+.subtitle h2 {
+    margin-left: 30px;
+}
 .photo {
     border: 3px solid white;
     border-radius:24%;
@@ -39,26 +36,36 @@ body {
 #title {
     color: rgb(8, 8, 9);
     margin-top: 15px;
+    padding: 3px;
     
 }
 
 .subtitle img {
     margin-top: 15px;
+    margin-left: 33px;
     border-radius: 6px;
 }
 
-/*.subtitle nav {
-    text-align: center;
-}
-*/
 nav ul li {
     list-style-type: none;
+    color: #000;
     padding: 3px;
 }
 
-footer ol li {
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+footer ul li {
+    list-style-type: none;
+    color: #000;
     padding: 3px;
-    margin-left: 33px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #000;
 }
 
 
