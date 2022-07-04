@@ -3,17 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }*/
+.photo {
+    border: 3px solid white;
+    border-radius:24%;
+    margin-left: 30px;
+    margin-top: 33px;
+}
 
 body {
     background-color: #beeef8;
     font-family: verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 .subtitle {
     background-color: white;
     color:rgb(79, 79, 142);
     border: 3px solid rgb(38, 37, 37);
-    margin-top: 15px;
+    margin-bottom: 15px;
     border-radius: 6px;
     font-size: 15px;
     text-transform: uppercase; 
@@ -22,29 +30,27 @@ body {
 .subtitle h2 {
     margin-left: 30px;
 }
-.photo {
-    border: 3px solid white;
-    border-radius:24%;
-    margin-left: 30px;
-    margin-top: 15px;
-}
 
-.post_image {
-    margin-top: 15px;
+.subtitle .post_image {
+    margin-left: 30px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    width: 93%;
 }
 
 #title {
     color: rgb(8, 8, 9);
-    margin-top: 15px;
+    margin-bottom: 15px;
     padding: 3px;
     
 }
 
-.subtitle img {
+/*.subtitle img {
     margin-top: 15px;
     margin-left: 33px;
     border-radius: 6px;
-}
+    width: 100%;
+}*/
 
 nav ul li {
     list-style-type: none;
